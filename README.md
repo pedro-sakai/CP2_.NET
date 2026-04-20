@@ -1,40 +1,29 @@
-# EletronicosStore 
-
-## 🎯 Objetivo do Projeto
-Este projeto tem como objetivo implementar a camada de persistência e infraestrutura para um sistema de gerenciamento de loja de equipamentos eletrônicos. A solução segue os princípios de **Clean Architecture**, utilizando **.NET 10** e **Entity Framework Core** com o provider para **Oracle Database**.
-
----
+# Checkpoint 2 - Persistência com EF Core e Camada de Infraestrutura
 
 ## 👥 Integrantes do Grupo
-* **Nome:** Pedro Sakai - **RM:** 565956
-
-
----
-
-## 🏗️ Estrutura do Projeto (Clean Architecture)
-O projeto está dividido em 4 camadas para garantir o desacoplamento e a testabilidade:
-
-1.  **EletronicosStore.Domain**: Contém as entidades de negócio (`Produto`, `Categoria`, `Cliente`, `Pedido`, `ItemPedido`) e é independente de qualquer framework.
-2.  **EletronicosStore.Application**: Define as interfaces de repositório e contratos de abstração.
-3.  **EletronicosStore.Infrastructure**: Implementa a persistência, o `AppDbContext`, as configurações de **Fluent API** e as **Migrations**.
-4.  **EletronicosStore.API**: Camada de entrada, configuração da Injeção de Dependência e controllers para exposição dos endpoints.
+* **Nome:** [Seu Nome Completo] - **RM:** [Seu RM]
+* **Nome:** [Integrante 2] - **RM:** [RM 2]
+* **Nome:** [Integrante 3] - **RM:** [RM 3]
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
-* .NET 10
-* Entity Framework Core
-* Oracle Entity Framework Core Provider
-* Padrão Repository
+## 🛒 Domínio Escolhido
+**Loja de Equipamentos Eletrônicos**
+O sistema tem como objetivo gerenciar o catálogo de produtos, categorias e o fluxo de vendas (pedidos) de uma loja especializada em eletrônicos. O modelo foca na organização de estoque por categoria e na rastreabilidade de pedidos realizados por clientes cadastrados.
 
 ---
 
-## ⚙️ Como Executar o Projeto
+## 🗄️ SGBD Utilizado
+* **Oracle Database**
+* Provider: `Oracle.EntityFrameworkCore`
 
-### 1. Configuração da Connection String
-Antes de rodar as migrations, abra o arquivo `appsettings.json` no projeto **EletronicosStore.API** e atualize a string de conexão com suas credenciais do Oracle:
+---
 
+## 🏗️ Instruções de Execução e Migrations
+
+### 1. Configuração do Banco
+No arquivo `appsettings.json` do projeto **EletronicosStore.API**, configure a sua Connection String:
 ```json
 "ConnectionStrings": {
-  "OracleConnection": "Data Source=(DESCRIPTION=(ADDRESS_LIST=(ADDRESS=(PROTOCOL=TCP)(HOST=localhost)(PORT=1521)))(CONNECT_DATA=(SERVER=DEDICATED)(SERVICE_NAME=xe)));User Id=SEU_USUARIO;Password=SUA_SENHA;"
+  "OracleConnection": "Data Source=SeuCaminhoOracle;User Id=SeuUsuario;Password=SuaSenha;"
 }
