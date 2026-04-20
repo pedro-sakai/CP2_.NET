@@ -1,9 +1,7 @@
 # Checkpoint 2 - Persistência com EF Core e Camada de Infraestrutura
 
 ## 👥 Integrantes do Grupo
-* **Nome:** [Seu Nome Completo] - **RM:** [Seu RM]
-* **Nome:** [Integrante 2] - **RM:** [RM 2]
-* **Nome:** [Integrante 3] - **RM:** [RM 3]
+* **Nome:** Pedro Sakai - **RM:** 565956
 
 ---
 
