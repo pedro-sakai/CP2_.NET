@@ -25,3 +25,5 @@ No arquivo `appsettings.json` do projeto **EletronicosStore.API**, configure a s
 "ConnectionStrings": {
   "OracleConnection": "Data Source=SeuCaminhoOracle;User Id=SeuUsuario;Password=SuaSenha;"
 }
+
+![Esquema Físico do Banco de Dados](docs/MER.png)
