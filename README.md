@@ -17,6 +17,7 @@ O sistema tem como objetivo gerenciar o catálogo de produtos, categorias e o fl
 
 ---
 
+## ESQUEMA FÍSICO DO BANCO DE DADOS
 ![Esquema Físico do Banco de Dados](docs/MER.png)
 
 ---
