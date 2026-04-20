@@ -17,6 +17,10 @@ O sistema tem como objetivo gerenciar o catálogo de produtos, categorias e o fl
 
 ---
 
+![Esquema Físico do Banco de Dados](docs/MER.png)
+
+---
+
 ## 🏗️ Instruções de Execução e Migrations
 
 ### 1. Configuração do Banco
@@ -25,5 +29,3 @@ No arquivo `appsettings.json` do projeto **EletronicosStore.API**, configure a s
 "ConnectionStrings": {
   "OracleConnection": "Data Source=SeuCaminhoOracle;User Id=SeuUsuario;Password=SuaSenha;"
 }
-
-![Esquema Físico do Banco de Dados](docs/MER.png)
