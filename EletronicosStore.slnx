@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="EletronicosStore.API/EletronicosStore.API.csproj" />
+  <Project Path="EletronicosStore.Application/EletronicosStore.Application.csproj" />
+  <Project Path="EletronicosStore.Domain/EletronicosStore.Domain.csproj" />
+  <Project Path="EletronicosStore.Infrastructure/EletronicosStore.Infrastructure.csproj" />
+</Solution>

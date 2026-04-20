@@ -1,0 +1,11 @@
+D:\FIAP\2 Ano\Net\3semestre\CP2_.NET\EletronicosStore.Domain\bin\Debug\net10.0\EletronicosStore.Domain.deps.json
+D:\FIAP\2 Ano\Net\3semestre\CP2_.NET\EletronicosStore.Domain\bin\Debug\net10.0\EletronicosStore.Domain.dll
+D:\FIAP\2 Ano\Net\3semestre\CP2_.NET\EletronicosStore.Domain\bin\Debug\net10.0\EletronicosStore.Domain.pdb
+D:\FIAP\2 Ano\Net\3semestre\CP2_.NET\EletronicosStore.Domain\obj\Debug\net10.0\EletronicosStore.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\FIAP\2 Ano\Net\3semestre\CP2_.NET\EletronicosStore.Domain\obj\Debug\net10.0\EletronicosStore.Domain.AssemblyInfoInputs.cache
+D:\FIAP\2 Ano\Net\3semestre\CP2_.NET\EletronicosStore.Domain\obj\Debug\net10.0\EletronicosStore.Domain.AssemblyInfo.cs
+D:\FIAP\2 Ano\Net\3semestre\CP2_.NET\EletronicosStore.Domain\obj\Debug\net10.0\EletronicosStore.Domain.csproj.CoreCompileInputs.cache
+D:\FIAP\2 Ano\Net\3semestre\CP2_.NET\EletronicosStore.Domain\obj\Debug\net10.0\EletronicosStore.Domain.dll
+D:\FIAP\2 Ano\Net\3semestre\CP2_.NET\EletronicosStore.Domain\obj\Debug\net10.0\refint\EletronicosStore.Domain.dll
+D:\FIAP\2 Ano\Net\3semestre\CP2_.NET\EletronicosStore.Domain\obj\Debug\net10.0\EletronicosStore.Domain.pdb
+D:\FIAP\2 Ano\Net\3semestre\CP2_.NET\EletronicosStore.Domain\obj\Debug\net10.0\ref\EletronicosStore.Domain.dll

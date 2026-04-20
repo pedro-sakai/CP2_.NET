@@ -1,0 +1,17 @@
+D:\FIAP\2 Ano\Net\3semestre\CP2_.NET\EletronicosStore.Infrastructure\bin\Debug\net10.0\EletronicosStore.Infrastructure.deps.json
+D:\FIAP\2 Ano\Net\3semestre\CP2_.NET\EletronicosStore.Infrastructure\bin\Debug\net10.0\EletronicosStore.Infrastructure.dll
+D:\FIAP\2 Ano\Net\3semestre\CP2_.NET\EletronicosStore.Infrastructure\bin\Debug\net10.0\EletronicosStore.Infrastructure.pdb
+D:\FIAP\2 Ano\Net\3semestre\CP2_.NET\EletronicosStore.Infrastructure\bin\Debug\net10.0\EletronicosStore.Application.dll
+D:\FIAP\2 Ano\Net\3semestre\CP2_.NET\EletronicosStore.Infrastructure\bin\Debug\net10.0\EletronicosStore.Domain.dll
+D:\FIAP\2 Ano\Net\3semestre\CP2_.NET\EletronicosStore.Infrastructure\bin\Debug\net10.0\EletronicosStore.Domain.pdb
+D:\FIAP\2 Ano\Net\3semestre\CP2_.NET\EletronicosStore.Infrastructure\bin\Debug\net10.0\EletronicosStore.Application.pdb
+D:\FIAP\2 Ano\Net\3semestre\CP2_.NET\EletronicosStore.Infrastructure\obj\Debug\net10.0\EletronicosStore.Infrastructure.csproj.AssemblyReference.cache
+D:\FIAP\2 Ano\Net\3semestre\CP2_.NET\EletronicosStore.Infrastructure\obj\Debug\net10.0\EletronicosStore.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\FIAP\2 Ano\Net\3semestre\CP2_.NET\EletronicosStore.Infrastructure\obj\Debug\net10.0\EletronicosStore.Infrastructure.AssemblyInfoInputs.cache
+D:\FIAP\2 Ano\Net\3semestre\CP2_.NET\EletronicosStore.Infrastructure\obj\Debug\net10.0\EletronicosStore.Infrastructure.AssemblyInfo.cs
+D:\FIAP\2 Ano\Net\3semestre\CP2_.NET\EletronicosStore.Infrastructure\obj\Debug\net10.0\EletronicosStore.Infrastructure.csproj.CoreCompileInputs.cache
+D:\FIAP\2 Ano\Net\3semestre\CP2_.NET\EletronicosStore.Infrastructure\obj\Debug\net10.0\Eletroni.6AD9A584.Up2Date
+D:\FIAP\2 Ano\Net\3semestre\CP2_.NET\EletronicosStore.Infrastructure\obj\Debug\net10.0\EletronicosStore.Infrastructure.dll
+D:\FIAP\2 Ano\Net\3semestre\CP2_.NET\EletronicosStore.Infrastructure\obj\Debug\net10.0\refint\EletronicosStore.Infrastructure.dll
+D:\FIAP\2 Ano\Net\3semestre\CP2_.NET\EletronicosStore.Infrastructure\obj\Debug\net10.0\EletronicosStore.Infrastructure.pdb
+D:\FIAP\2 Ano\Net\3semestre\CP2_.NET\EletronicosStore.Infrastructure\obj\Debug\net10.0\ref\EletronicosStore.Infrastructure.dll

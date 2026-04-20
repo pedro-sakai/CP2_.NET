@@ -1,0 +1,15 @@
+D:\FIAP\2 Ano\Net\3semestre\CP2_.NET\EletronicosStore.Application\bin\Debug\net10.0\EletronicosStore.Application.deps.json
+D:\FIAP\2 Ano\Net\3semestre\CP2_.NET\EletronicosStore.Application\bin\Debug\net10.0\EletronicosStore.Application.dll
+D:\FIAP\2 Ano\Net\3semestre\CP2_.NET\EletronicosStore.Application\bin\Debug\net10.0\EletronicosStore.Application.pdb
+D:\FIAP\2 Ano\Net\3semestre\CP2_.NET\EletronicosStore.Application\bin\Debug\net10.0\EletronicosStore.Domain.dll
+D:\FIAP\2 Ano\Net\3semestre\CP2_.NET\EletronicosStore.Application\bin\Debug\net10.0\EletronicosStore.Domain.pdb
+D:\FIAP\2 Ano\Net\3semestre\CP2_.NET\EletronicosStore.Application\obj\Debug\net10.0\EletronicosStore.Application.csproj.AssemblyReference.cache
+D:\FIAP\2 Ano\Net\3semestre\CP2_.NET\EletronicosStore.Application\obj\Debug\net10.0\EletronicosStore.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\FIAP\2 Ano\Net\3semestre\CP2_.NET\EletronicosStore.Application\obj\Debug\net10.0\EletronicosStore.Application.AssemblyInfoInputs.cache
+D:\FIAP\2 Ano\Net\3semestre\CP2_.NET\EletronicosStore.Application\obj\Debug\net10.0\EletronicosStore.Application.AssemblyInfo.cs
+D:\FIAP\2 Ano\Net\3semestre\CP2_.NET\EletronicosStore.Application\obj\Debug\net10.0\EletronicosStore.Application.csproj.CoreCompileInputs.cache
+D:\FIAP\2 Ano\Net\3semestre\CP2_.NET\EletronicosStore.Application\obj\Debug\net10.0\Eletroni.31F932B4.Up2Date
+D:\FIAP\2 Ano\Net\3semestre\CP2_.NET\EletronicosStore.Application\obj\Debug\net10.0\EletronicosStore.Application.dll
+D:\FIAP\2 Ano\Net\3semestre\CP2_.NET\EletronicosStore.Application\obj\Debug\net10.0\refint\EletronicosStore.Application.dll
+D:\FIAP\2 Ano\Net\3semestre\CP2_.NET\EletronicosStore.Application\obj\Debug\net10.0\EletronicosStore.Application.pdb
+D:\FIAP\2 Ano\Net\3semestre\CP2_.NET\EletronicosStore.Application\obj\Debug\net10.0\ref\EletronicosStore.Application.dll
